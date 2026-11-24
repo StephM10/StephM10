@@ -1,19 +1,13 @@
 # Leren Wang
 
-I work on chromatin simulation, trajectory analysis, and scientific software.
+I study chromatin dynamics at Rice University using computational models.
 
-My projects connect simulation output to tools that make it easier to inspect,
-analyze, and visualize chromatin dynamics.
+[LinkedIn](https://www.linkedin.com/in/leren-wang-971567284/)
 
-## Selected projects
+## Research tools
 
-- **[chromdyn](https://github.com/StephM10/chromdyn)** — Maintained extensions to
-  [Sumi Brahmachari's chromdyn](https://github.com/s-brahmachari/chromdyn), including
-  trajectory analysis, heterogeneous particles, active dynamics, and regression
-  tests. See the [contribution record](https://github.com/StephM10/chromdyn/blob/main/CONTRIBUTIONS.md).
-- **[vmd-cndb](https://github.com/StephM10/vmd-cndb)** — Native CNDB trajectory
-  loading in Windows VMD, with arbitrary particle types, topology, periodic cells,
-  and a loader window. **Early release (v0.1.0)**; focused on local simulation data.
-
-Current focus: reproducible simulation workflows and practical tools for chromatin
-trajectory analysis and visualization.
+- **[chromdyn](https://github.com/StephM10/chromdyn)** — Contributions to
+  [Sumi Brahmachari's chromdyn](https://github.com/s-brahmachari/chromdyn)
+  for chromatin simulation and analysis.
+- **[vmd-cndb](https://github.com/StephM10/vmd-cndb)** — Load CNDB simulation
+  trajectories in Windows VMD.
