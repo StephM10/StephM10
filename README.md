@@ -1,8 +1,6 @@
 # Leren Wang
 
-I study chromatin dynamics at Rice University using computational models.
-
-[LinkedIn](https://www.linkedin.com/in/leren-wang-971567284/)
+I'm currently a Physics PhD candidate, working on chromatin organization and dynamics at Rice University using computational models.
 
 ## Research tools
 
